@@ -1,0 +1,76 @@
+.container-2
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px auto;
+    padding-top: 20px;
+    padding: 10px;
+    margin: 10px;
+}
+.container-3
+{
+    display: flex;
+    justify-content:center;
+    border:50px;
+    padding: 100px;
+}
+body
+{
+    background: url(.//images/whos_that_pokemon.png) no-repeat top center;
+    background-size: 1100px;
+}
+
+.container-2 button
+{
+    position: fixed;
+    top: 570px;
+    right: 1020px;
+    color: white;
+    background-color: #ffcb05;
+    box-shadow: 10 10 10 black;
+    height: 35px;
+    width: 90px;
+    font-family: 'Serif';
+    box-shadow: 0px 10px 50px #ffcb05;
+}
+
+.flex-box-container-2
+{
+position: relative;
+top: 100px;
+right: 200px;
+}
+
+.container-3 button
+{
+    position: fixed;
+    right: 840px;
+    top: 570px;
+    box-shadow: 0px 10px 50px #3a5da8;
+
+}
+
+.flex-box-container-2 img
+{
+    width: 350px;
+    height: 350px;
+}
+
+.container-3 button
+{
+    background-color: #3a5da8;
+    box-shadow: 10 10 10 black;
+    height: 35px;
+    width: 90px;
+    font-family: 'Serif';
+    font-weight: 300;
+}
+
+.flex-box-container-3
+{
+    position: fixed;
+    top: 490px;
+    right: 920px;
+    font-family: serif;
+}
